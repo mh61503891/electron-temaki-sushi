@@ -3,7 +3,7 @@
 This is a command line tool to generate Electron Application from specified URL.
 
 1. 🙋 < `electron-temaki-sushi http://electron.atom.io/`
-2. 🙆 🍣(Electron.app)三👏☺️
+2. 🙆 🍣(Electron.app)三👏😊
 
 ## Install
 
