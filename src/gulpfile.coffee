@@ -6,7 +6,6 @@ meow = require('meow')
 packager = require('electron-packager')
 CoffeeScript = require('coffee-script')
 os = require('os')
-sync = require('synchronize')
 cheerio = require('cheerio-httpcli')
 gulp = require('gulp')
 
