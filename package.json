@@ -1,6 +1,6 @@
 {
   "name": "electron-temaki-sushi",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Electron Temaki Sushi",
   "bin": {
     "electron-temaki-sushi": "src/cli.js"
