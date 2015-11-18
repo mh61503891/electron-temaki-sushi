@@ -2,7 +2,7 @@
 
 This is a command line tool to generate Electron Application from specified URL.
 
-1. 🙋 < `electron-temaki-sushi http://electron.atom.io/`
+1. 🙋 < `electron-temaki-sushi Electron http://electron.atom.io/`
 2. 🙆 🍣(Electron.app)三👏😊
 
 ## Install
@@ -14,7 +14,7 @@ npm install electron-temaki-sushi -g
 ## Usage
 
 ```bash
-electron-temaki-sushi <URL>
+electron-temaki-sushi <AppName> <URL>
 ```
 
 ## Example
@@ -28,7 +28,7 @@ $ npm install electron-temaki-sushi -g
 Run:
 
 ```bash
-$ electron-temaki-sushi http://electron.atom.io/
+$ electron-temaki-sushi Electron http://electron.atom.io/
 Fetching http://electron.atom.io/ to get the title
 Runing mkdir /var/folders/cc/470s1lj92dx_7z9ykv36kt0m0000gn/T/tmp-73332nNcFKchDwSq
 Generating the template files into /var/folders/cc/470s1lj92dx_7z9ykv36kt0m0000gn/T/tmp-73332nNcFKchDwSq/src
