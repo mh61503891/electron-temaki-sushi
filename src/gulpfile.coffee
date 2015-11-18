@@ -53,7 +53,6 @@ gulp.task 'default', ->
       arch: os.arch()
       overwrite: true
     }
-    console.log opts
     packager opts, (error, appPaths) ->
       throw error if error
       for appPath in appPaths
